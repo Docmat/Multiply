@@ -1,27 +1,27 @@
 ## It's my Multiply Page Project 
 For activate my project you need to run the following commands:
 
-#### Step 1:
+# Step 1:
 ## Install virtual environment
-# python3 -m venv env
+### python3 -m venv env
 
-#### Step 2:
+# Step 2:
 ## Activate virt env 
-# source env/bin/activate
+### source env/bin/activate
 
-#### Step 3:
+# Step 3:
 ## Install django packages 
-# pip3 install django
+### pip3 install django
 
-#### Step 4:
+# Step 4:
 ## Make migrations
-# python manage.py makemigrations
-# python manage.py migrate
+### python manage.py makemigrations
+### python manage.py migrate
 
-#### Step 5:
+# Step 5:
 ## Create Super User
-# python manage.py createsuperuser
+### python manage.py createsuperuser
 
-#### Step 6:
+# Step 6:
 ## Run project
-# python manage.py runserver
+### python manage.py runserver
